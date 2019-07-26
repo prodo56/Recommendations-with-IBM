@@ -21,11 +21,11 @@ There are three components in this project.
 1. Exploratory Data Analysis
 
 	- Before making recommendations of any kind, you will need to explore the data you are working with for the project. Dive in to see what you can find. There are some basic, required questions to be answered about the data you are working with throughout the rest of the notebook.
-  - What is the distribution of how many articles a user interacts with in the dataset?
-  - The number of unique articles that have an interaction with a user.
-  - The number of unique articles in the dataset (whether they have any interactions or not).
-  - The number of unique users in the dataset. (excluding null values)
-  - The number of user-article interactions in the dataset.
+	- What is the distribution of how many articles a user interacts with in the dataset?
+	- The number of unique articles that have an interaction with a user.
+	- The number of unique articles in the dataset (whether they have any interactions or not).
+	- The number of unique users in the dataset. (excluding null values)
+	- The number of user-article interactions in the dataset.
 
 2. Rank Based Recommendations
 	
@@ -33,11 +33,11 @@ There are three components in this project.
 
 3. User-User Based Collaborative Filtering
 
-  - In order to build better recommendations for the users of IBM's platform, we could look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users. This would be a step in the right direction towards more personal recommendations for the users.
+	- In order to build better recommendations for the users of IBM's platform, we could look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users. This would be a step in the right direction towards more personal recommendations for the users.
   
 4. Matrix Factorization
 
-  - Finally, we will complete a machine learning approach to building recommendations. Using the user-item interactions, we will build out a matrix decomposition. Using our decomposition, we will get an idea of how well you can predict new articles an individual might interact with.
+	- Finally, we will complete a machine learning approach to building recommendations. Using the user-item interactions, we will build out a matrix decomposition. Using our decomposition, we will get an idea of how well you can predict new articles an individual might interact with.
 
 
 ### Licensing, Authors, and Acknowledgements <a name="licensing"></a>
